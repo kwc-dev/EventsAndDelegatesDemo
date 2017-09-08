@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Testing Events and Delegates.
-//By Khai Wah Cheung. 08.09.2017.
+// Testing Events and Delegates.
+// By Khai Wah Cheung. 08.09.2017.
 
 namespace EventsAndDelegatesDemo
 {
